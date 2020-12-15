@@ -6,5 +6,5 @@ git clone https://github.com/RyutaUematsu/My100APP/<<The APP that you want to us
 cd <<The APP that you want to use>>
 python main.py
 '''
-#None
+#Note
 Please install required modules by yourself.
