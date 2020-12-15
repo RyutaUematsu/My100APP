@@ -9,6 +9,8 @@ while True:
     time.sleep(1)
     if 'Twitter' in gw.getAllTitles():
         cnt += 1
+    else:
+        cnt = 0
     if cnt == INTERRUPT_TIMEOUT*60:
         try:
             cnt = 0
