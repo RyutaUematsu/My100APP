@@ -3,8 +3,8 @@ This is My 100 App Repository.  I have created useful app since 2020/12/16
 # Start App
 All of apps is started by this command.
 ```bash
-git clone https://github.com/RyutaUematsu/My100APP/<<The APP that you want to use>>
-cd << The APP that you want to use >>
+git clone https://github.com/RyutaUematsu/My100APP
+cd My100App/<< The APP that you want to use >>
 python main.py
 ```
 # Note
